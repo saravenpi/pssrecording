@@ -6,19 +6,19 @@ export default function Pricing() {
                 <div className="flex flex-row flex-wrap gap-10 p-5 justify-center">
                     <div className="pricecard">
                         <div className="text-xl">
-                            Tarif Ami
+                            Tarif Z
                         </div>
                         <div className="pricenumber">5 €</div>
                     </div>
                     <div className="pricecard">
                         <div className="text-xl">
-                            Tarif FDP
+                            Tarif Y
                         </div>
-                        <div className="pricenumber">666 €</div>
+                        <div className="pricenumber">12,50 €</div>
                     </div>
                     <div className="pricecard">
                         <div className="text-xl">
-                            Tarif Fanga
+                            Tarif X
                         </div>
                         <div className="pricenumber">0 €</div>
                     </div>
