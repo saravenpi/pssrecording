@@ -84,7 +84,7 @@
 
   .pricenumber {
 
-    @apply text-3xl bg-orange-300 rounded p-3 text-black;
+    @apply text-4xl bg-orange-300 rounded p-3 text-black;
 
   }
 

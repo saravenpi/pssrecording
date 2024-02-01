@@ -39,11 +39,11 @@ function DiscoveryCarousel() {
                                     <Image
                                         src={picturePath}
                                         alt="studio_picture"
-                                        width={200}
-                                        height={200}
+                                        width={300}
+                                        height={300}
                                         className="rounded"
                                     ></Image>
-                                    <span className="text-xl text-white font-thin">{descriptionArray[index]}</span>
+                                    <span className="text-xl text-black font-thin p-2 bg-white rounded">{descriptionArray[index]}</span>
                                 </div>
                         </CarouselItem>
                     ))}
