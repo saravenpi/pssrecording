@@ -1,0 +1,18 @@
+.Hero {
+    background: url('/IMG_1892.jpg');
+    background-size: cover;
+    background-position-y: -260px;
+}
+
+.Hero_mid {
+    padding: 0px;
+}
+
+@media (max-width: 1000px) {
+    .Hero {
+        background-position-y: 0px;
+    }
+    .Hero_mid {
+        padding: 30px;
+    }
+}
